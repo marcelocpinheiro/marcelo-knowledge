@@ -6,6 +6,7 @@ Links, artigos, vídeos, enfim, qualquer material que eu ache interessante armaz
 
 ## Front-end
 - Vue TS Class Components guide - https://www.digitalocean.com/community/tutorials/vuejs-typescript-class-components
+- Complete Flex Guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
 
